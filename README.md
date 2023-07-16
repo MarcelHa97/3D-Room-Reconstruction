@@ -22,7 +22,7 @@ When you click on a perspective button, the 3D plot will update to show the scen
 
 4. Slider for Room Exploration \
 The slider in the GUI provides an interactive way to explore a virtual room. \
-By adjusting the slider, you can change your angle within the room, simulating turning around and changing your viewing direction. \
+By adjusting the slider, you can change your angle within the room, simulating turning around and changing your viewing direction.\
 To reset to home, press the reset camera button. 
 
 5. Line and Plane Area Measurement Buttons \
