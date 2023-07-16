@@ -12,7 +12,7 @@ Computer Vision Project - 3D reconstruction of a room from 2D images
 These buttons enable you to import external images or camera calibration data into the application.
 Select a filepath for the images and a .txt file for the camera data.
 
-2. Create 3D View
+2. Create 3D View \
 After importing the images and camera calibration data, you can press this button and create the 3D view.
 
 3. Perspective Buttons
