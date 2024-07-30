@@ -28,4 +28,6 @@ To reset to home, press the reset camera button.
 5. Line and Plane Area Measurement Buttons \
 The GUI offers two buttons specifically designed for measurement tasks. 
 The line measurement button allows you to measure the length between two points in the room. \
-The plane measurement button enables you to measure the area of a planar region in the plot. 
+The plane measurement button enables you to measure the area of a planar region in the plot.
+
+https://drive.google.com/drive/folders/1NJuHquy8LTkRXwIIo2w_rwr1c7ESVd_E?usp=sharing
